@@ -25,7 +25,7 @@ Me considero un apasionado por la tecnología que siempre busca ir un paso adela
 ---
 
 ### 📫 Conectemos:
-* **LinkedIn:** [Tu Link de LinkedIn aquí]
-* **Email:** [Tu Correo aquí]
 
-*"La lógica te llevará de A a B. La curiosidad te llevará a todas partes."*
+* **Email:** dredondo@unab.edu.co/dredondouribe@gmail.com
+
+
