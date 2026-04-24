@@ -9,12 +9,12 @@ Me considero un apasionado por la tecnología que siempre busca ir un paso adela
 * 🤖 **Inteligencia Artificial:** Miembro activo del semillero de investigación en IA.
 * 🌐 **Web Dev:** Explorando nuevas tecnologías en el semillero de Desarrollo Web.
 * 📱 **Meta:** Especializarme en Desarrollo Móvil e IA para proyectos internacionales.
-* 🎨 **Aprendiendo:** Dando mis primeros pasos en modelado 3D con **Autodesk Maya**.
+* 🎨 **Aprendiendo:** Dando mis primeros pasos en modelado 3D con **Autodesk Maya** y **Unity** .
 
 ### 🛠️ Mi "Caja de Herramientas" (Uso práctico y académico)
 * **Lenguajes:** Java, Python, JavaScript, Kotlin.
 * **Bases de Datos:** SQL Systems.
-* **Automatización:** n8n.
+* **Automatización:** n8n y FireBase.
 * **Idiomas:** Inglés (Dominio) | Francés (En proceso 🇫🇷).
 
 ### ⚡ Sobre mí
