@@ -1,7 +1,7 @@
 # ¡Hola! Soy Daniel 👋 🇨🇴
 
 ### 🚀 Estudiante de Ingeniería de Sistemas (4to Semestre) @ UNAB
-Me considero un apasionado por la tecnología que siempre busca ir un paso adelante. Actualmente divido mi tiempo entre la academia, la investigación y el aprendizaje autónomo de nuevas herramientas.
+Me considero un apasionado por la tecnología que siempre busca ir un paso adelante. Actualmente divido mi tiempo entre la investigación y el aprendizaje autónomo de nuevas herramientas.
 
 ---
 
