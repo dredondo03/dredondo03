@@ -19,8 +19,8 @@ Me considero un apasionado por la tecnología que siempre busca ir un paso adela
 
 ### ⚡ Sobre mí
 * 🔭 **Visión:** Apunto a una doble titulación y a trabajar de forma remota para empresas globales.
-* ⚙️ **Mindset:** Enfoque lógico y resiliente. Me encanta optimizar procesos (como CPanel e interfaces).
-* 🏋️‍♂️ **Fuera del código:** Soy un entusiasta del gym, los videojuegos y la lectura técnica.
+* ⚙️ **Mindset:** Enfoque lógico y resiliente. Me gusta optimizar procesos (como CPanel e interfaces).
+* 🏋️‍♂️ **Fuera del código:** Soy un entusiasta del gym, la musica, los videojuegos y la lectura técnica.
 
 ---
 
