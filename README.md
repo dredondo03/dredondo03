@@ -66,18 +66,7 @@ Español (nativo) · Inglés (avanzado) · Francés (aprendiendo)
 
 ---
 
-### Estadísticas
 
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&locale=es"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=github_dark&hide_border=true&locale=es"/>
-
-<img src="https://streak-stats.demolab.com?user=TU_USUARIO&theme=github-dark-blue&hide_border=true&locale=es" />
-
-</div>
-
----
 
 ### Fuera del código
 
