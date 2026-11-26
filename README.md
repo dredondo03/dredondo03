@@ -16,17 +16,17 @@
 
 ### Sobre mí
 
-Estudio Ingeniería de Sistemas en la UNAB (4to semestre). Últimamente paso más tiempo en la terminal que en el editor: montando servidores, levantando contenedores y rompiendo cosas para entender cómo funcionan por dentro.
+Estudio Ingeniería de Sistemas en la UNAB (5to semestre). Últimamente paso más tiempo en la terminal que en el editor: montando servidores, levantando contenedores y rompiendo cosas para entender cómo funcionan por dentro.
 
 Me interesa sobre todo la parte de **redes y ciberseguridad**, y en paralelo estoy aprendiendo a implementar **MCP (Model Context Protocol)** y a trabajar con **modelos de aprendizaje por refuerzo**. También participo en los semilleros de investigación de IA y de Desarrollo Web de la universidad.
 
 ```yaml
 ahora_mismo:
-  enfoque:     [redes, ciberseguridad]
+  enfoque:     [redes, ciberseguridad. ]
   aprendiendo: [MCP, aprendizaje por refuerzo]
   montando:    servicios y bases de datos en Docker sobre Fedora Server
   construyendo: arquitecturas web y APIs REST
-  en_mis_ratos: modelado 3D con Maya y Unity
+  en_mis_ratos: Semillero Sisweb (Desarrollo Web), Semillero MediaLab (IA), Hackaton y slams cientificos. Me gusta participar en eventos de otras universidades o a nivel metropolitano
   meta:        doble titulación y trabajo remoto con equipos de otros países
 ```
 
