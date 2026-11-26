@@ -8,7 +8,7 @@
 
 <a href="mailto:dredondouribe@gmail.com"><img src="https://img.shields.io/badge/Gmail-dredondouribe-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
 <a href="mailto:dredondo@unab.edu.co"><img src="https://img.shields.io/badge/UNAB-dredondo@unab.edu.co-1f6feb?style=flat-square&logo=maildotru&logoColor=white"/></a>
-<img src="https://komarev.com/ghpvc/?username=TU_USUARIO&style=flat-square&color=1f6feb&label=visitas" alt="visitas"/>
+<img src="https://komarev.com/ghpvc/?username=dredondo03&style=flat-square&color=1f6feb&label=visitas" alt="visitas"/>
 
 </div>
 
@@ -40,12 +40,13 @@ ahora_mismo:
 
 **Bases de datos**
 
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&theme=dark" />
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,supabase&theme=dark" />
 <img src="https://img.shields.io/badge/Neo4j-4581C3?style=for-the-badge&logo=neo4j&logoColor=white" height="48"/>
 
 **Infraestructura y backend**
 
-<img src="https://skillicons.dev/icons?i=docker,fedora,linux,bash,git&theme=dark" />
+<img src="https://skillicons.dev/icons?i=docker,linux,bash,git&theme=dark" />
+<img src="https://img.shields.io/badge/Fedora_Server-51A2DA?style=for-the-badge&logo=fedora&logoColor=white" height="48"/>
 <img src="https://img.shields.io/badge/API_REST-0d1117?style=for-the-badge&logo=fastapi&logoColor=white" height="48"/>
 
 **Automatización y servicios**
